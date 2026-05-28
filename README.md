@@ -1,3 +1,5 @@
-# Check Out My Website
+## Visit My Website
 
-👉 [mtg1461.com](https://mtg1461.com)
+Explore my projects, media, and private work documentation.
+
+[mtg1461.com](https://mtg1461.com)
