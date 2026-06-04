@@ -3,3 +3,6 @@
 Explore my projects, media, and private work documentation.
 
 [mtg1461.com](https://mtg1461.com)
+
+> [!NOTE]
+> Private repos might be going public soon. Stay tuned!
